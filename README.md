@@ -1,1 +1,1 @@
-# JIT-Bot_manual
+# The explanation of the features
